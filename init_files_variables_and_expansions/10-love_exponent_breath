@@ -1,2 +1,2 @@
 #!/bin/bash
-echon$ (($BREATH ** $LOVE)) 
+echon$ (($BREATH**$LOVE)) 
