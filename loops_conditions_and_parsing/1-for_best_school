@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
-# Bash script the displays `Best School` ten times
+# Bash script that displays 'Best School' ten times
 # Use for loop 
 
 for (( count=1; count =<10; count++ ))
 do 
      echo "Best Schoo" 
-done   
+done  
