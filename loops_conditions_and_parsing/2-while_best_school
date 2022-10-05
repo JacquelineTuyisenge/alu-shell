@@ -1,9 +1,6 @@
 #!/usr/bin/env bash
-
-# Bash script to displays 'Best School' ten times
-
+# Bash script that displays 'Best School' ten times
 # Use while loop
-
 
 
 count=0
@@ -18,4 +15,4 @@ do
 
     ((count++))
 
-done 
+done  
