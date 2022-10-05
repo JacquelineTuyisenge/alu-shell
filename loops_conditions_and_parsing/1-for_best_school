@@ -4,5 +4,5 @@
 
 for (( count=1; count <=10; count++ ))
 do 
-     echo "Best Schoo" 
+     echo "Best School" 
 done  
