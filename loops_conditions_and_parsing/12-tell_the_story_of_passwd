@@ -6,7 +6,6 @@
 # Use while loop
 
 
-
 while IFS=':' read -r username password uid gid info home shell; do
 
 	  echo "The user $username is part of the $gid gang,"\
@@ -17,4 +16,4 @@ while IFS=':' read -r username password uid gid info home shell; do
 
 		        "more info about the user here: $info"
 
-		done < "/etc/passwd"  
+		done < "/etc/passwd"   
