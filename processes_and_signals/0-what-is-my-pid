@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Bash script thet displays its own PID
+
+ps -aux 
